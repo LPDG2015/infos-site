@@ -24,7 +24,7 @@
   "faq": [
     {
       "question": "Comment suivre ma commande ?",
-      "réponse": "Un lien de suivi est envoyé par email dès l’expédition."
+      "réponse": "Un lien de suivi est envoyé automatiquement par email dès l’expédition. Vous pouvez retrouver le suivi directement depuis votre espace client."
     },
     {
       "question": "Puis-je retourner un produit ?",
