@@ -1,0 +1,35 @@
+{
+  "nom_boutique": "Le Palais des Goodies",
+  "slogan": "Propagateur de pop culture",
+  "adresse": "60 rue François 1er, 75008 Paris",
+  "horaires": {
+    "lundi": "10h - 18h",
+    "mardi": "10h - 18h",
+    "mercredi": "10h - 18h",
+    "jeudi": "10h - 18h",
+    "vendredi": "10h - 18h",
+    "samedi": "Fermé",
+    "dimanche": "Fermé"
+  },
+  "livraison": {
+    "mode": "UPS",
+    "delai": "48/72 heures",
+    "suivi_dispo": true,
+    "commentaire": "Livraison rapide avec suivi"
+  },
+  "contact": {
+    "email": "contact@palais-des-goodies.fr",
+    "téléphone": "01 23 45 67 89"
+  },
+  "faq": [
+    {
+      "question": "Comment suivre ma commande ?",
+      "réponse": "Un lien de suivi est envoyé par email dès l’expédition."
+    },
+    {
+      "question": "Puis-je retourner un produit ?",
+      "réponse": "Oui, dans un délai de 14 jours après réception."
+    }
+  ]
+}
+
